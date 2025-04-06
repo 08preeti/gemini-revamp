@@ -14,8 +14,8 @@
 - Deployed on GitHub Pages  
 
 ## 📸 Screenshots  
-![Light Mode](screenshot-light.png)  
-![Dark Mode](screenshot-dark.png)  
+![light Mode](screenshot-light.png)  
+![dark Mode](screenshot-dark.png)  
 
 ## 🚀 How I Built This  
 1. Used Gemini AI with prompts like:  
