@@ -13,10 +13,14 @@
 - HTML5, CSS3, JavaScript  
 - Deployed on GitHub Pages  
 
-## 📸 Screenshots  
-![light Mode](screenshot-light.png)  
-![dark Mode](screenshot-dark.png)  
-
+## Screenshots
+- **Hot Mode**
+- **Mark Mode**
+- ## Screenshots
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light](light.png) | ![Dark](dark.png) |
+- 
 ## 🚀 How I Built This  
 1. Used Gemini AI with prompts like:  
    - *"Generate a modern chat UI with glass effect"*  
